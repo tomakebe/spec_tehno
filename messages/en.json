@@ -1,0 +1,110 @@
+{
+  "HomePage": {
+    "title": "Spec Techno Group"
+  },
+  "Catalog": {
+    "title": "Equipment Catalog",
+    "subtitle": "Full fleet of specialized machinery for any industrial project",
+    "orderButton": "Order",
+    "allCategories": "All categories",
+    "categories": {
+      "earthmoving": "Earthmoving Equipment",
+      "lifting": "Lifting Equipment",
+      "transport": "Transport Equipment",
+      "road": "Concrete Equipment"
+    },
+    "items": {
+      "excavator": {
+        "name": "Excavator",
+        "description": "Wheeled and tracked models for pits and trenches."
+      },
+      "bulldozer": {
+        "name": "Bulldozer",
+        "description": "For moving soil and clearing construction sites."
+      },
+      "miniLoader": {
+        "name": "Mini Loader",
+        "description": "Maneuverable equipment for work in confined spaces."
+      },
+      "truckCrane": {
+        "name": "Truck Crane",
+        "description": "Structure assembly and heavy load lifting."
+      },
+      "manipulator": {
+        "name": "Crane Manipulator",
+        "description": "Versatile machine for transportation and installation."
+      },
+      "dumpTruck": {
+        "name": "Dump Truck",
+        "description": "Delivery of bulk materials and soil removal."
+      },
+      "trailer": {
+        "name": "Heavy Hauler",
+        "description": "Transportation of oversized special machinery."
+      },
+      "mixer": {
+        "name": "Concrete Mixer",
+        "description": "Delivery of ready-mixed concrete to job sites."
+      },
+      "concretePump": {
+        "name": "Concrete Pump",
+        "description": "Pumping concrete to height and distance."
+      },
+      "roller": {
+        "name": "Road Roller",
+        "description": "Compaction of soil and asphalt surfaces."
+      }
+    }
+  },
+  "Contact": {
+    "title": "Get in touch",
+    "subtitle": "Describe your task — we will select the equipment and calculate the cost within one business day",
+    "nameLabel": "Name",
+    "namePlaceholder": "John Smith",
+    "phoneLabel": "Phone",
+    "phonePlaceholder": "+996 (___) ___-___",
+    "companyLabel": "Company (optional)",
+    "companyPlaceholder": "Your Company Ltd.",
+    "messageLabel": "Task description",
+    "messagePlaceholder": "Tell us what needs to be done: scope of work, deadlines, special requirements...",
+    "submit": "Send request",
+    "sending": "Sending...",
+    "successTitle": "Request sent!",
+    "successText": "We have received your message and will contact you within one business day.",
+    "workingHours": "Mon–Fri: 9:00–18:00, Sat: 9:00–14:00",
+    "workingHoursLabel": "Working hours"
+  },
+  "Hero": {
+    "slide1Title": "Full-Cycle\nSpecial Equipment",
+    "slide1Subtitle": "We handle tasks of any complexity —\nfrom rental to full project management",
+    "slide2Title": "Earthmoving\nEquipment",
+    "slide2Subtitle": "Excavators, bulldozers and mini loaders\nfor pits, trenches and site clearance",
+    "slide3Title": "Lifting\nOperations",
+    "slide3Subtitle": "Truck cranes and manipulators for assembly\nof structures and heavy load lifting",
+    "slide4Title": "Road\nWorks",
+    "slide4Subtitle": "Mixers, concrete pumps and rollers\nfor road construction and finishing",
+    "ctaCatalog": "View catalog",
+    "ctaContact": "Contact us",
+    "prev": "Previous",
+    "next": "Next",
+    "slideOf": "{current} of {total}"
+  },
+  "Nav": {
+    "catalog": "Catalog",
+    "about": "About us",
+    "contact": "Contact us"
+  },
+  "Footer": {
+    "tagline": "Full-cycle specialized machinery solutions for your business",
+    "contactsTitle": "Contacts",
+    "navigationTitle": "Navigation",
+    "socialsTitle": "Follow us",
+    "copyright": "© 2026 SpecTechnoGroup. All rights reserved.",
+    "nav": {
+      "catalog": "Catalog",
+      "about": "About us",
+      "work": "Our work",
+      "contact": "Contact us"
+    }
+  }
+}
